@@ -1,7 +1,7 @@
 # solar-panels-detection-app
 Aceasta este o aplicație care are ca scop prevenirea deteriorării panourilor solare. Prin intermediul senzorilor, aceasta colectează date relevante, cum ar fi AC Power, DC Power și temperatura, voltaj, etc., și analizează aceste date pentru a identifica orice variații în graficele de performanță ale panourilor.
 
-Aici sunt pașii succint pentru a vizualiza aplicația prin intermediul ANACONDA app.
+Aici sunt pașii succinți pentru a vizualiza aplicația prin intermediul ANACONDA app.
   1. Descărcăm toate fișierele;
   2. Deschidem Anaconda;
   3. Introducem secvența: ”cd downloads”, apoi ENTER;
